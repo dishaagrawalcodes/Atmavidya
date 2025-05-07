@@ -18,11 +18,11 @@ const Home = () => {
       }, 500);
     }, 4000);
     return () => clearInterval(intervalId);
-  }, []);
+  }, [images.length]);
 
   return (
     <div
-      className="relative w-full h-screen bg-cover bg-center transition-all duration-1000"
+      className="relative overflow-x-hidden w-full min-h-screen bg-cover bg-center transition-all duration-1000 pt-20"
       style={{ backgroundImage: `url(${homebg})` }}
     >
       {/* Dark overlay */}
