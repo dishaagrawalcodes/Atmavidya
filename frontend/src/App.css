@@ -6,7 +6,7 @@
 
 body {
   background-color: #ffffe4;
-  padding-top: 4rem; 
+  padding-top: 4rem;
 }
 * {
   margin: 0;
@@ -16,4 +16,12 @@ body {
 
 html, body {
   overflow-x: hidden;
+}
+/* Hide scrollbar for all scrollable content */
+::-webkit-scrollbar {
+  display: none;
+}
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;     /* Firefox */
 }
