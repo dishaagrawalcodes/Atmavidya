@@ -124,7 +124,7 @@ const Home = () => {
           title="Books Gallery"
           image="https://vedastro.org/Assets/Books/k.png"
           subtitle="Paramaatma Saakshataar - Kaisa"
-          author="Written by Satish Arya"
+          author="Written by Satish Ary"
           link="/books"
         />
         <VideoCard />
