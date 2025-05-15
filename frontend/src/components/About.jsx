@@ -16,7 +16,7 @@ const About = () => {
             alt="Left decorative swirl"
             className="w-20 h-12"
           />
-          <span className="italic font-serif">About    Veda</span>
+          <span className="italic font-serif">About Veda</span>
           <img
             src="/assets/title_right.png"
             alt="Right decorative swirl"
