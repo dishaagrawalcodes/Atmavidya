@@ -15,7 +15,7 @@ const Header = () => {
 
   return (
     <header className="fixed top-0 w-full z-50 bg-[#33160a]">
-      {/* Phone Navbar */}
+      
       <div className="flex justify-between border-b border-[#32180d] p-3 backdrop-blur-md z-20 fixed top-0 w-full sm:invisible bg-[#33160a]">
         <div>
           <img
