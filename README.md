@@ -1,2 +1,2 @@
 # Atmavidya
-Ancient  Platform 
+Ancient  Platform  for ur vedic knowledge Enhancement 
