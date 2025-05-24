@@ -28,7 +28,7 @@ const About = () => {
           The past century  witnessed a steady decline in the interest of
           people to study, protect, preserve, and propagate Indian culture and
           heritage. This is particularly true with respect to the Vedas. Several
-          unique <i>shakas</i>, branches of the Vedas, were dwindling into
+          unique <i>shakas</i>, branches of Vedas, were dwindling into
           non-existence.
         </p>
         <p className="text-lg leading-relaxed text-gray-700 mb-6">
