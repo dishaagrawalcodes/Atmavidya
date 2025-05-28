@@ -1,5 +1,6 @@
 # Atmavidya
 Ancient  Platform  for ur vedic knowledge Enhancement 
-For frontend and backend 
+For frontend  
 npm run dev 
+For Backend
 node server.js
