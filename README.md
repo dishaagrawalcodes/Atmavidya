@@ -1,4 +1,4 @@
-# Atmavidya
+# Atmavidya(Vedic Knowledge Platform)
 
 Ancient  Platform  for ur vedic knowledge Enhancement 
 For frontend  
