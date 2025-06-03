@@ -1,6 +1,6 @@
 # Atmavidya(Vedic Knowledge Platform)
 
-Ancient  Platform  for ur vedic knowledge Enhancement 
+Ancient  Platform  for your vedic knowledge Enhancement 
 
 For frontend  
 npm run dev 
